@@ -77,6 +77,7 @@ Here are some screenshots of the Subscription Manager application:
 - Register Page
     ![Edit Subscription](https://cdn.discordapp.com/attachments/889078845985128449/1333848879531032730/image.png?ex=679a6312&is=67991192&hm=12b201e0d8bff8ae7230680c636eafc97ebe55d2be7221e3a6c507afd014ebb7&)
 - Subscription Page
+  
     ![Subscription List](https://cdn.discordapp.com/attachments/889078845985128449/1334163290112397353/image.png?ex=679b87e3&is=679a3663&hm=9de7b7f598a01c07a7d57e7b562b962aa7a8a18a32f6951b992c50886e2d8875&)
 
 ## Backend Setup
