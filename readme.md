@@ -93,32 +93,12 @@ Here are some screenshots of the Subscription Manager application:
         php artisan db:seed
         ```
 
-## Frontend Setup
-1. Ensure you have Node.js and npm installed on your machine.
-2. Navigate to the project directory and install the frontend dependencies:
-        ```bash
-        npm install
-        ```
-3. Compile the frontend assets:
-        ```bash
-        npm run dev
-        ```
 
-## Running Tests
-To run the tests for this project, use the following command:
-```bash
-php artisan test
-```
 
 ## Technologies Used
 - PHP
-- Laravel
 - HTML
 - CSS
 - JavaScript
 - MySQL
 
-## Acknowledgements
-- [Laravel Documentation](https://laravel.com/docs)
-- [Composer](https://getcomposer.org/)
-- [Node.js](https://nodejs.org/)
