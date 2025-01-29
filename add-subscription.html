@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Add Subscription</title>
+  <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Add Subscription</h2>
+    <form action="php/add-subscription.php" method="POST">
+      <input type="text" name="service_name" placeholder="Service Name (e.g., Netflix)" required>
+      <input type="number" name="subscription_amount" placeholder="Amount" step="0.01" required>
+      <input type="date" name="billing_date" required>
+      <button type="submit" class="btn">Add</button>
+    </form>
+    <a href="../dashboard.php" class="btn">Back to Dashboard</a>
+  </div>
+</body>
+</html>
